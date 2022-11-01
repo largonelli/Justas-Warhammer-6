@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<dataIndex battleScribeVersion="2.03" name="Justas Warhammer Fantasy - 6ª Edicion con MdN y MdM" indexUrl="https://raw.githubusercontent.com/largonelli/Justas-Warhammer-6/main/index.bsi" xmlns="http://www.battlescribe.net/schema/dataIndexSchema">
+  <dataIndexEntries>
+    <dataIndexEntry filePath="Justas_Warhammer_Fantasy_-_6ª_Edicion.gstz" dataType="gamesystem" dataId="db1b-54be-3f2e-2cda" dataName="Justas Warhammer Fantasy - 6ª Edición con MdN y MdM" dataBattleScribeVersion="2.03" dataRevision="1"/>
+  </dataIndexEntries>
+</dataIndex>
