@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<dataIndex battleScribeVersion="2.03" name="Justas Warhammer Fantasy - 6ª Edicion con MdN y MdM" indexUrl="https://raw.githubusercontent.com/largonelli/Justas-Warhammer-6/main/index.bsi" xmlns="http://www.battlescribe.net/schema/dataIndexSchema">
+  <dataIndexEntries>
+    <dataIndexEntry filePath="Justas_Warhammer_Fantasy_-_6ª_Edicion.gstz" dataType="gamesystem" dataId="db1b-54be-3f2e-2cda" dataName="Justas Warhammer Fantasy - 6ª Edición con MdN y MdM" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="MdM_Marienburgo_(Justas)(El_Templo_de_Myrmidia).catz" dataType="catalogue" dataId="3814-1847-60d5-1b92" dataName="Marienburgo (Justas)(MdM)" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="MDNR_Altos_Elfos_(Justas).catz" dataType="catalogue" dataId="fa4c-5f61-31b7-7604" dataName="Altos Elfos (Justas)" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="Imperio (Justas).catz" dataType="catalogue" dataId="2bd7-0a6c-7ee1-e386" dataName="Imperio (Justas)" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="Enanos del Caos (Justas).catz" dataType="catalogue" dataId="b7da-e1c5-7029-5ff2" dataName="Enanos del Caos (Justas)" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="Reinos del Caos (Justas).catz" dataType="catalogue" dataId="dfab-4c8c-9b07-7548" dataName="Reinos del Caos (Justas)" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="Contingente_Aliado_Hobgoblins_(Justas).catz" dataType="catalogue" dataId="82f7-4a79-e9fc-8908" dataName="Contingente Aliado: Hobgoblins (Justas)" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="Orcos y Goblins (Justas).catz" dataType="catalogue" dataId="babb-594a-d461-0cf3" dataName="Orcos y Goblins (Justas)" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="Hombres Lagarto (Justas).catz" dataType="catalogue" dataId="d3cb-bb29-fe18-4d05" dataName="Hombres Lagarto (Justas)" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="Mercenarios Arabia (Justas).catz" dataType="catalogue" dataId="4274-5ffb-f342-00bb" dataName="Mercenarios: Arabia (Justas)" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="MDNR_Condes_Vampiro_(Justas).catz" dataType="catalogue" dataId="b453-c44b-11e6-c2ba" dataName="Condes Vampiro (Justas)" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="Skaven (Justas).catz" dataType="catalogue" dataId="dec8-16ca-90ea-8093" dataName="Skaven (Justas)" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="Enanos (Justas).catz" dataType="catalogue" dataId="9979-fa86-7390-1c3e" dataName="Enanos (Justas)" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="Contingente Aliado Nippon (Justas).catz" dataType="catalogue" dataId="4f76-3664-12ed-1db0" dataName="Contingente Aliado: Nippon (Justas)" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="Mercenarios (Justas).catz" dataType="catalogue" dataId="a624-6473-052b-9c9c" dataName="Mercenarios (Justas)" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="Elfos Silvanos (Justas).catz" dataType="catalogue" dataId="59e8-938d-1b50-9438" dataName="Elfos Silvanos (Justas)" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="Reyes Funerarios (Justas).catz" dataType="catalogue" dataId="8613-a036-bc0d-bb81" dataName="Reyes Funerarios (Justas)" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="Elfos Oscuros (Justas).catz" dataType="catalogue" dataId="dadd-c657-0841-3c78" dataName="Elfos Oscuros (Justas)" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="Contingente Aliado Kislev (Justas).catz" dataType="catalogue" dataId="66ce-1e55-f5be-50a8" dataName="Contingente Aliado: Kislev (Justas)" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="MdM_Estalia_(Justas)(El_Templo_de_Myrmidia).catz" dataType="catalogue" dataId="3e71-5d4e-a12e-1b3e" dataName="Estalia (Justas)(MdM, El Templo de Myrmidia)" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="MDNR_Bretonia_(Justas).catz" dataType="catalogue" dataId="56f2-a544-2eeb-4f7a" dataName="Bretonia (Justas)" dataBattleScribeVersion="2.03" dataRevision="1"/>
+  </dataIndexEntries>
+</dataIndex>
